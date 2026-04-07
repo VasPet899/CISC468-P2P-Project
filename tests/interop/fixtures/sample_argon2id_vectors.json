@@ -1,0 +1,12 @@
+{
+  "description": "Argon2id test vector for vault key derivation",
+  "password": "test-password-123",
+  "salt": "AAECAwQFBgcICQoLDA0ODw",
+  "params": {
+    "time": 3,
+    "memory": 65536,
+    "parallelism": 4,
+    "keylen": 32
+  },
+  "expected_key": "tMxwu-Zmhw0kvZSzk1_0zHMxkjgP6ZEC6IOi3urvi88"
+}

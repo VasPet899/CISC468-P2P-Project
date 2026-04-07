@@ -1,0 +1,17 @@
+{
+  "description": "Ed25519 keypair with known seed for cross-language test vectors",
+  "seed": "AAECAwQFBgcICQoLDA0ODxAREhMUFRYXGBkaGxwdHh8",
+  "public_key": "A6EHv_POEL4dcN0Y50vAmWfk1jCbpQ1fHdyGZBJVMbg",
+  "peer_id": "A6EHv_POEL4dcN0Y50vAmWfk1jCbpQ1fHdyGZBJVMbg",
+  "test_message": "dGVzdCBtZXNzYWdlIGZvciBjcm9zcy1sYW5ndWFnZSBzaWduYXR1cmUgdmVyaWZpY2F0aW9u",
+  "test_signature": "aA2M4ok48-7R79SJbIDVFcH1LKOmqyRmvHlvA3sIYr7jNS84md3m8hCIf9OE9gxQ1fYK0imWP6mnsmojTdz9CA",
+  "canonical_json_test": {
+    "input": {
+      "z": 1,
+      "a": 2,
+      "m": 3
+    },
+    "expected_bytes": "eyJhIjoyLCJtIjozLCJ6IjoxfQ",
+    "expected_string": "{\"a\":2,\"m\":3,\"z\":1}"
+  }
+}

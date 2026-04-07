@@ -1,0 +1,8 @@
+{
+  "description": "HKDF-SHA256 test vectors for session key derivation",
+  "shared_secret": "AAECAwQFBgcICQoLDA0ODxAREhMUFRYXGBkaGxwdHh8",
+  "nonce_initiator": "ICEiIyQlJicoKSorLC0uLzAxMjM0NTY3ODk6Ozw9Pj8",
+  "nonce_responder": "QEFCQ0RFRkdISUpLTE1OT1BRUlNUVVZXWFlaW1xdXl8",
+  "expected_session_key": "LXHncUUVt_4Ewrj2bsaZ3IheLkJVhpzdR3spCwi8ZjI",
+  "hkdf_info": "p2pshare-session-v1"
+}

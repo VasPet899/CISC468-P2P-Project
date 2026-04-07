@@ -1,0 +1,9 @@
+{
+  "description": "AES-256-GCM test vector \u2014 wire format: nonce(12B) || ciphertext || tag(16B)",
+  "key": "AAECAwQFBgcICQoLDA0ODxAREhMUFRYXGBkaGxwdHh8",
+  "nonce": "AAECAwQFBgcICQoL",
+  "plaintext": "VGhlIHF1aWNrIGJyb3duIGZveCBqdW1wcyBvdmVyIHRoZSBsYXp5IGRvZy4",
+  "plaintext_string": "The quick brown fox jumps over the lazy dog.",
+  "payload": "AAECAwQFBgcICQoLE2qzO7SQq3jmYfX53p4WTeW5_xSaDjIMS0eK83gbIMZpdY6QzrtruBDLGMNcw8YdGZo8l6hsV_eAMqO7",
+  "note": "nonce is NOT prepended by the library \u2014 must be prepended manually in wire format"
+}

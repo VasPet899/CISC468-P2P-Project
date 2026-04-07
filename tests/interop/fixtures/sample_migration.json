@@ -1,0 +1,20 @@
+{
+  "description": "KEY_MIGRATION announcement for cross-language verification",
+  "old_seed": "AAECAwQFBgcICQoLDA0ODxAREhMUFRYXGBkaGxwdHh8",
+  "old_public_key": "A6EHv_POEL4dcN0Y50vAmWfk1jCbpQ1fHdyGZBJVMbg",
+  "new_seed": "AQIDBAUGBwgJCgsMDQ4PEBESExQVFhcYGRobHB0eHyA",
+  "new_public_key": "ebVWLo_mVPlAeLES6KmLp5AfhTrmlb7X4OORC60ElmQ",
+  "migration_message": {
+    "type": "KEY_MIGRATION",
+    "version": "1",
+    "seq": 0,
+    "timestamp": 1774828435965,
+    "old_peer_id": "A6EHv_POEL4dcN0Y50vAmWfk1jCbpQ1fHdyGZBJVMbg",
+    "new_peer_id": "ebVWLo_mVPlAeLES6KmLp5AfhTrmlb7X4OORC60ElmQ",
+    "effective_timestamp": 1774828435965,
+    "expiry_timestamp": 1777420435965,
+    "reason": "scheduled_rotation",
+    "old_signature": "oFcU3nZiumdJ_sCFXUex6YQ7qt4jDH8SGq7kgg9RAsZFIGsUo6QB77U9WO3lQb2Gjh1nGRKNjb3Aw52B2MHMAQ",
+    "new_signature": "Ug59LHlHqZVpHsfNh6WrFiaAWVoWlonKe99-DzanpjqDkvL4zKdMrNXi9mE5yGJY2EjA8NGYT3weib4BDpFzBg"
+  }
+}

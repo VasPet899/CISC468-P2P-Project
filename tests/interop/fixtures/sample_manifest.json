@@ -1,0 +1,17 @@
+{
+  "description": "Signed file manifest for cross-language relay verification",
+  "owner_seed": "AAECAwQFBgcICQoLDA0ODxAREhMUFRYXGBkaGxwdHh8",
+  "owner_public_key": "A6EHv_POEL4dcN0Y50vAmWfk1jCbpQ1fHdyGZBJVMbg",
+  "file_data": "SGVsbG8sIHRoaXMgaXMgdGhlIGNvbnRlbnQgb2YgdGhlIHNoYXJlZCBmaWxlLg",
+  "manifest": {
+    "file_id": "ypVTvluAZk1It2sfa3LyeakFZWO-dXumVF7LhkdzaWo",
+    "filename": "hello.txt",
+    "size_bytes": 46,
+    "sha256": "N-3AwVqPJIWSp35WlvaUI_faK2Cox22bH-r7GnUpCgY",
+    "owner_id": "A6EHv_POEL4dcN0Y50vAmWfk1jCbpQ1fHdyGZBJVMbg",
+    "upload_timestamp": 1774828435953,
+    "description": "A test file for relay",
+    "version": 1,
+    "owner_signature": "KK4DW9D7ZQQ5Xgzcly9pmzEz7TQQ-oSOmBBUva2-jjAoIjdzTEmI3O3kB8HMyDK255qOdAKvRzyLbe-o6uM7CQ"
+  }
+}
